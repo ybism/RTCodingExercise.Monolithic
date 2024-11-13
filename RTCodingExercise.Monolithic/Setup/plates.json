@@ -1,0 +1,2351 @@
+[
+  {
+    "Id": "0812851E-3EC3-4D12-BAF6-C9F0E6DC2F76",
+    "Registration": "T44GUE",
+    "PurchasePrice": "2722.51",
+    "SalePrice": "8995.00",
+    "Numbers": "44",
+    "Letters": "TAG",
+    "Status": "Available"
+  },
+  {
+    "Id": "DF81D7FC-319B-46A8-AB66-2574B4169C3D",
+    "Registration": "M44BEY",
+    "PurchasePrice": "859.10",
+    "SalePrice": "8995.00",
+    "Numbers": "44",
+    "Letters": "MAB",
+    "Status": "Available"
+  },
+  {
+    "Id": "0E9C83BF-94E2-484A-97CB-A8B06E3410FD",
+    "Registration": "P777PER",
+    "PurchasePrice": "1494.08",
+    "SalePrice": "4995.00",
+    "Numbers": "777",
+    "Letters": "PYP",
+    "Status": "Available"
+  },
+  {
+    "Id": "7C88B586-AABA-400A-8EF2-AF2073FC0CB2",
+    "Registration": "M66VEY",
+    "PurchasePrice": "469.26",
+    "SalePrice": "5995.00",
+    "Numbers": "66",
+    "Letters": "MCV",
+    "Status": "Available"
+  },
+  {
+    "Id": "725F2A22-8F53-45BF-9E09-7158049AAFC6",
+    "Registration": "M12BES",
+    "PurchasePrice": "1321.55",
+    "SalePrice": "695.00",
+    "Numbers": "12",
+    "Letters": "BES",
+    "Status": "Available"
+  },
+  {
+    "Id": "C48629B3-CE5B-4244-9C54-4EBDFCF5228E",
+    "Registration": "T33ARE",
+    "PurchasePrice": "314.96",
+    "SalePrice": "7995.00",
+    "Numbers": "33",
+    "Letters": "TEA",
+    "Status": "Available"
+  },
+  {
+    "Id": "CDE2DEE3-E558-43E3-BF37-C53426966B38",
+    "Registration": "L44TTA",
+    "PurchasePrice": "782.26",
+    "SalePrice": "7995.00",
+    "Numbers": "44",
+    "Letters": "LAT",
+    "Status": "Available"
+  },
+  {
+    "Id": "B390C982-6D15-4591-B07F-213DC80A9909",
+    "Registration": "N44YEE",
+    "PurchasePrice": "1574.86",
+    "SalePrice": "7995.00",
+    "Numbers": "44",
+    "Letters": "NAY",
+    "Status": "Available"
+  },
+  {
+    "Id": "2A395A2E-10FD-4CAD-ACA1-20A2A7D24E21",
+    "Registration": "W33LBY",
+    "PurchasePrice": "1467.53",
+    "SalePrice": "8995.00",
+    "Numbers": "33",
+    "Letters": "WEL",
+    "Status": "Available"
+  },
+  {
+    "Id": "1F5892B7-FFC5-4594-82F3-9828C7BF1C28",
+    "Registration": "N444YAR",
+    "PurchasePrice": "1052.41",
+    "SalePrice": "5995.00",
+    "Numbers": "444",
+    "Letters": "NAY",
+    "Status": "Available"
+  },
+  {
+    "Id": "32085C0D-7DBA-479C-A0CA-D71B64297170",
+    "Registration": "P444RDY",
+    "PurchasePrice": "697.13",
+    "SalePrice": "6995.00",
+    "Numbers": "444",
+    "Letters": "PAR",
+    "Status": "Available"
+  },
+  {
+    "Id": "986CB42A-098F-4C6F-AB83-EFF560B9F53B",
+    "Registration": "L44RBY",
+    "PurchasePrice": "1209.44",
+    "SalePrice": "8995.00",
+    "Numbers": "44",
+    "Letters": "LAR",
+    "Status": "Available"
+  },
+  {
+    "Id": "460CC02B-C970-4E40-82D2-07F9893D8CAC",
+    "Registration": "L33AHY",
+    "PurchasePrice": "96.70",
+    "SalePrice": "7995.00",
+    "Numbers": "33",
+    "Letters": "LEA",
+    "Status": "Available"
+  },
+  {
+    "Id": "4E4BAA3E-F0C2-49E9-B7E2-422DE69060FC",
+    "Registration": "LE51BOY",
+    "PurchasePrice": "397.72",
+    "SalePrice": "2995.00",
+    "Numbers": "51",
+    "Letters": "LES",
+    "Status": "Available"
+  },
+  {
+    "Id": "4DE36773-ED9E-4574-AE15-AB6C7B46FF08",
+    "Registration": "MO02TON",
+    "PurchasePrice": "1726.30",
+    "SalePrice": "9995.00",
+    "Numbers": "02",
+    "Letters": "MOO",
+    "Status": "Available"
+  },
+  {
+    "Id": "B2A8FE96-D1A7-48B6-A45F-9F8FE173BA23",
+    "Registration": "SH02TTS",
+    "PurchasePrice": "227.87",
+    "SalePrice": "7995.00",
+    "Numbers": "02",
+    "Letters": "SHO",
+    "Status": "Available"
+  },
+  {
+    "Id": "20FA23CB-740C-4CE7-B740-8F8DF9A63644",
+    "Registration": "N1FAG",
+    "PurchasePrice": "705.45",
+    "SalePrice": "1995.00",
+    "Numbers": "1",
+    "Letters": "FAG",
+    "Status": "Available"
+  },
+  {
+    "Id": "0ADBAB12-EA44-4AAD-8CEA-AE32B417D6C1",
+    "Registration": "YY51MDN",
+    "PurchasePrice": "699.59",
+    "SalePrice": "2995.00",
+    "Numbers": "51",
+    "Letters": "SIM",
+    "Status": "Available"
+  },
+  {
+    "Id": "99BDF6B3-222A-47D6-9414-3F8982A71FBD",
+    "Registration": "LE51AUX",
+    "PurchasePrice": "353.53",
+    "SalePrice": "2995.00",
+    "Numbers": "51",
+    "Letters": "LE",
+    "Status": "Available"
+  },
+  {
+    "Id": "D7863B04-047C-488E-9F67-AB7ED2CCA916",
+    "Registration": "D12HAY",
+    "PurchasePrice": "3340.31",
+    "SalePrice": "8995.00",
+    "Numbers": "12",
+    "Letters": "HAY",
+    "Status": "Available"
+  },
+  {
+    "Id": "80D24629-56C6-4DF6-BF46-619B2EE61204",
+    "Registration": "D12ORR",
+    "PurchasePrice": "758.04",
+    "SalePrice": "6995.00",
+    "Numbers": "12",
+    "Letters": "ORR",
+    "Status": "Available"
+  },
+  {
+    "Id": "8EB67542-4A6B-469C-8773-CDBB6C377724",
+    "Registration": "1VYN",
+    "PurchasePrice": "591.63",
+    "SalePrice": "29995.00",
+    "Numbers": "1",
+    "Letters": "IVY",
+    "Status": "Available"
+  },
+  {
+    "Id": "6819CE1A-FE19-41F0-B1BF-B362D5A6C028",
+    "Registration": "D12YEO",
+    "PurchasePrice": "302.34",
+    "SalePrice": "4995.00",
+    "Numbers": "12",
+    "Letters": "YEO",
+    "Status": "Available"
+  },
+  {
+    "Id": "06B575AA-E395-4F57-815E-FE692F3F5228",
+    "Registration": "S44XBY",
+    "PurchasePrice": "150.17",
+    "SalePrice": "8995.00",
+    "Numbers": "44",
+    "Letters": "SAX",
+    "Status": "Available"
+  },
+  {
+    "Id": "3841B0EA-46E2-4549-B09B-7EC4119EFBD0",
+    "Registration": "JD51YNN",
+    "PurchasePrice": "1199.54",
+    "SalePrice": "2995.00",
+    "Numbers": "51",
+    "Letters": "JOS",
+    "Status": "Available"
+  },
+  {
+    "Id": "F8B5D497-2CAF-4415-BEA5-BCF1CB150206",
+    "Registration": "SU51GGG",
+    "PurchasePrice": "1279.77",
+    "SalePrice": "2995.00",
+    "Numbers": "51",
+    "Letters": "SUS",
+    "Status": "Available"
+  },
+  {
+    "Id": "53632F0B-70AD-49BF-9C74-C493B5AFE30D",
+    "Registration": "BE51ACE",
+    "PurchasePrice": "2206.04",
+    "SalePrice": "2995.00",
+    "Numbers": "51",
+    "Letters": "BES",
+    "Status": "Available"
+  },
+  {
+    "Id": "4EB66283-9E20-4DC4-B969-FAFBC41E4E08",
+    "Registration": "RO51DAY",
+    "PurchasePrice": "10196.46",
+    "SalePrice": "9995.00",
+    "Numbers": "51",
+    "Letters": "ROS",
+    "Status": "Available"
+  },
+  {
+    "Id": "552DA6C4-D6E0-4C9F-B7B2-3FC92B9DED6F",
+    "Registration": "BU51ERS",
+    "PurchasePrice": "418.37",
+    "SalePrice": "4995.00",
+    "Numbers": "51",
+    "Letters": "BUS",
+    "Status": "Available"
+  },
+  {
+    "Id": "B05B120F-5434-4A6E-BC01-9BAC5E4783DD",
+    "Registration": "J33ARY",
+    "PurchasePrice": "947.87",
+    "SalePrice": "9995.00",
+    "Numbers": "33",
+    "Letters": "JEA",
+    "Status": "Available"
+  },
+  {
+    "Id": "05A77CD1-5465-400B-9531-4B3D5F67A25E",
+    "Registration": "L44MEY",
+    "PurchasePrice": "544.00",
+    "SalePrice": "7995.00",
+    "Numbers": "44",
+    "Letters": "LAM",
+    "Status": "Available"
+  },
+  {
+    "Id": "535F1893-8706-4ED5-97B0-F5BE2B970D5D",
+    "Registration": "P14TTT",
+    "PurchasePrice": "1242.31",
+    "SalePrice": "6995.00",
+    "Numbers": "14",
+    "Letters": "PLA",
+    "Status": "Available"
+  },
+  {
+    "Id": "F0415997-6365-45D9-93E3-03ACE9EE5E4B",
+    "Registration": "T33ALL",
+    "PurchasePrice": "523.97",
+    "SalePrice": "6995.00",
+    "Numbers": "33",
+    "Letters": "TEA",
+    "Status": "Available"
+  },
+  {
+    "Id": "C88D3473-83CB-4322-8C97-FB6FDC722A43",
+    "Registration": "B2EED",
+    "PurchasePrice": "1651.51",
+    "SalePrice": "8995.00",
+    "Numbers": "2",
+    "Letters": "BRE",
+    "Status": "Available"
+  },
+  {
+    "Id": "4A68AFC9-7AE7-459B-89FA-47493DABC813",
+    "Registration": "P33ASE",
+    "PurchasePrice": "467.06",
+    "SalePrice": "8995.00",
+    "Numbers": "33",
+    "Letters": "PEA",
+    "Status": "Available"
+  },
+  {
+    "Id": "43B71C96-5AFC-408C-902D-A67F73161FDF",
+    "Registration": "T44BOR",
+    "PurchasePrice": "5136.66",
+    "SalePrice": "8995.00",
+    "Numbers": "44",
+    "Letters": "TAB",
+    "Status": "Available"
+  },
+  {
+    "Id": "1B55C1D0-EFED-4431-8FFA-6BECA0B1F7D8",
+    "Registration": "S44ULT",
+    "PurchasePrice": "5177.42",
+    "SalePrice": "7995.00",
+    "Numbers": "44",
+    "Letters": "SAU",
+    "Status": "Available"
+  },
+  {
+    "Id": "0CCE073D-55B9-474E-A740-A5B1BB67F27F",
+    "Registration": "C6ULT",
+    "PurchasePrice": "176209.40",
+    "SalePrice": "4995.00",
+    "Numbers": "6",
+    "Letters": "COU",
+    "Status": "Available"
+  },
+  {
+    "Id": "8D04FFD2-2DBD-4E89-B5FA-8F0787B53A2D",
+    "Registration": "L33AFE",
+    "PurchasePrice": "4339.67",
+    "SalePrice": "7995.00",
+    "Numbers": "33",
+    "Letters": "LEA",
+    "Status": "Available"
+  },
+  {
+    "Id": "803C3E75-F779-418A-B4BF-EF9CDE7395BB",
+    "Registration": "N44REY",
+    "PurchasePrice": "1056.10",
+    "SalePrice": "7995.00",
+    "Numbers": "44",
+    "Letters": "NAR",
+    "Status": "Available"
+  },
+  {
+    "Id": "BE302375-E735-41BD-A59C-BADB76E7A6E1",
+    "Registration": "S33AGO",
+    "PurchasePrice": "51.89",
+    "SalePrice": "7995.00",
+    "Numbers": "33",
+    "Letters": "SEA",
+    "Status": "Available"
+  },
+  {
+    "Id": "B0F896D6-9131-4187-BFBA-DE86FD9652FE",
+    "Registration": "D12RYE",
+    "PurchasePrice": "25.48",
+    "SalePrice": "4995.00",
+    "Numbers": "12",
+    "Letters": "RYE",
+    "Status": "Available"
+  },
+  {
+    "Id": "C2C31F16-396F-4DBC-A66C-BC8F60351AE4",
+    "Registration": "N1ECH",
+    "PurchasePrice": "507.39",
+    "SalePrice": "2995.00",
+    "Numbers": "1",
+    "Letters": "ECH",
+    "Status": "Available"
+  },
+  {
+    "Id": "A50B20DD-30AE-46EC-85F9-A16B04DDF445",
+    "Registration": "VAY20",
+    "PurchasePrice": "87.10",
+    "SalePrice": "4995.00",
+    "Numbers": "20",
+    "Letters": "VAY",
+    "Status": "Available"
+  },
+  {
+    "Id": "40FAC07E-2B82-4858-BD99-1A1E4A79829D",
+    "Registration": "GAY70N",
+    "PurchasePrice": "1624.02",
+    "SalePrice": "29995.00",
+    "Numbers": "70",
+    "Letters": "GAY",
+    "Status": "Available"
+  },
+  {
+    "Id": "EB763F52-36BC-492D-8462-C45628E304A1",
+    "Registration": "THE4F",
+    "PurchasePrice": "635.66",
+    "SalePrice": "8995.00",
+    "Numbers": "4",
+    "Letters": "THE",
+    "Status": "Available"
+  },
+  {
+    "Id": "24D136BC-7B07-4069-AF5C-C4761A75888A",
+    "Registration": "G112VAN",
+    "PurchasePrice": "51980.26",
+    "SalePrice": "7995.00",
+    "Numbers": "112",
+    "Letters": "GIR",
+    "Status": "Available"
+  },
+  {
+    "Id": "D509E0DE-A844-49BF-88C7-8BFCF984D234",
+    "Registration": "D12RAM",
+    "PurchasePrice": "499.81",
+    "SalePrice": "4995.00",
+    "Numbers": "12",
+    "Letters": "RAM",
+    "Status": "Available"
+  },
+  {
+    "Id": "18A151CA-FE49-440B-A941-AA44D4A787E2",
+    "Registration": "P33ATE",
+    "PurchasePrice": "1169.04",
+    "SalePrice": "8995.00",
+    "Numbers": "33",
+    "Letters": "PEA",
+    "Status": "Available"
+  },
+  {
+    "Id": "374DC59A-D62A-48D8-8A38-F810570D6C1D",
+    "Registration": "E1SEE",
+    "PurchasePrice": "1354.22",
+    "SalePrice": "6995.00",
+    "Numbers": "1",
+    "Letters": "ELS",
+    "Status": "Available"
+  },
+  {
+    "Id": "3EFD1F44-64B7-464B-8DFA-408EE5E95065",
+    "Registration": "E8ULL",
+    "PurchasePrice": "12061.51",
+    "SalePrice": "6995.00",
+    "Numbers": "8",
+    "Letters": "BUL",
+    "Status": "Available"
+  },
+  {
+    "Id": "F189FD2B-752B-4555-BCF1-DB0589946F50",
+    "Registration": "OK51BEN",
+    "PurchasePrice": "389.62",
+    "SalePrice": "2995.00",
+    "Numbers": "51",
+    "Letters": "BEN",
+    "Status": "Available"
+  },
+  {
+    "Id": "210E0540-25A0-4AC6-BB09-8AFB4DE0D5D3",
+    "Registration": "K81AKE",
+    "PurchasePrice": "294.47",
+    "SalePrice": "9995.00",
+    "Numbers": "81",
+    "Letters": "BLA",
+    "Status": "Available"
+  },
+  {
+    "Id": "A0B4AA7D-3DC6-4E02-928D-1A4EC0723AB3",
+    "Registration": "DEZ1",
+    "PurchasePrice": "510.84",
+    "SalePrice": "75000.00",
+    "Numbers": "1",
+    "Letters": "DEZ",
+    "Status": "Available"
+  },
+  {
+    "Id": "DD73BA09-2FE7-404D-A340-140964288077",
+    "Registration": "CBA1E",
+    "PurchasePrice": "2851.25",
+    "SalePrice": "12495.00",
+    "Numbers": "1",
+    "Letters": "BAL",
+    "Status": "Available"
+  },
+  {
+    "Id": "BE460A67-0221-4568-B10A-8837013C605D",
+    "Registration": "LUL1A",
+    "PurchasePrice": "67.07",
+    "SalePrice": "9995.00",
+    "Numbers": "1",
+    "Letters": "LUL",
+    "Status": "Available"
+  },
+  {
+    "Id": "E5CAB7BC-7BEA-463D-8547-DDED352912F5",
+    "Registration": "FUR55E",
+    "PurchasePrice": "1940.82",
+    "SalePrice": "14995.00",
+    "Numbers": "55",
+    "Letters": "FUR",
+    "Status": "Available"
+  },
+  {
+    "Id": "A0962B83-5B0F-41F3-A296-27AA9F814DE8",
+    "Registration": "F12ANC",
+    "PurchasePrice": "534.47",
+    "SalePrice": "14995.00",
+    "Numbers": "12",
+    "Letters": "FRA",
+    "Status": "Available"
+  },
+  {
+    "Id": "2C176E86-B025-4223-A740-C8AC7A70A65C",
+    "Registration": "NEE50N",
+    "PurchasePrice": "2652.43",
+    "SalePrice": "29995.00",
+    "Numbers": "50",
+    "Letters": "NEE",
+    "Status": "Available"
+  },
+  {
+    "Id": "3452F777-0DA5-4481-8C6B-4E8E6B5F3834",
+    "Registration": "C12AGG",
+    "PurchasePrice": "134.87",
+    "SalePrice": "14995.00",
+    "Numbers": "12",
+    "Letters": "CRA",
+    "Status": "Available"
+  },
+  {
+    "Id": "5B710973-2089-4EDA-9D64-66D0265A97E1",
+    "Registration": "F12EER",
+    "PurchasePrice": "307.81",
+    "SalePrice": "24995.00",
+    "Numbers": "12",
+    "Letters": "FRE",
+    "Status": "Available"
+  },
+  {
+    "Id": "6A2305FB-218E-4B6C-925F-D8A0EDA8228C",
+    "Registration": "M411ETT",
+    "PurchasePrice": "420.18",
+    "SalePrice": "24995.00",
+    "Numbers": "411",
+    "Letters": "MAL",
+    "Status": "Available"
+  },
+  {
+    "Id": "B9300924-2FF3-436E-9D9F-A1BC7AF8CB54",
+    "Registration": "W31AND",
+    "PurchasePrice": "899.11",
+    "SalePrice": "7995.00",
+    "Numbers": "31",
+    "Letters": "WEL",
+    "Status": "Available"
+  },
+  {
+    "Id": "84094597-F96C-44EA-B38B-B4ACBD3D9AAA",
+    "Registration": "W9RRY",
+    "PurchasePrice": "121.89",
+    "SalePrice": "3995.00",
+    "Numbers": "9",
+    "Letters": "WAR",
+    "Status": "Available"
+  },
+  {
+    "Id": "3D51FE22-F425-4A5D-A855-3078BD25DC3A",
+    "Registration": "W33CAS",
+    "PurchasePrice": "599.23",
+    "SalePrice": "6995.00",
+    "Numbers": "33",
+    "Letters": "CAS",
+    "Status": "Available"
+  },
+  {
+    "Id": "E68FC32E-4E1B-479A-A2D0-8EB1D00272CA",
+    "Registration": "W33MAL",
+    "PurchasePrice": "753.43",
+    "SalePrice": "4995.00",
+    "Numbers": "33",
+    "Letters": "MAL",
+    "Status": "Available"
+  },
+  {
+    "Id": "F9F512C0-87C0-45C4-AC29-0432284842B5",
+    "Registration": "W33MAY",
+    "PurchasePrice": "561.43",
+    "SalePrice": "4995.00",
+    "Numbers": "33",
+    "Letters": "MAY",
+    "Status": "Available"
+  },
+  {
+    "Id": "F9D3DF10-D0E7-46B5-8266-F726583C6F4C",
+    "Registration": "W44LNE",
+    "PurchasePrice": "1179.88",
+    "SalePrice": "8995.00",
+    "Numbers": "44",
+    "Letters": "WAL",
+    "Status": "Available"
+  },
+  {
+    "Id": "6F919BB7-D209-4B7B-82EE-C6798369C2A3",
+    "Registration": "W8LDO",
+    "PurchasePrice": "2917.65",
+    "SalePrice": "6995.00",
+    "Numbers": "8",
+    "Letters": "WAL",
+    "Status": "Available"
+  },
+  {
+    "Id": "72DAA755-028E-4952-859D-26F1C69CD5C4",
+    "Registration": "F34RNY",
+    "PurchasePrice": "189.17",
+    "SalePrice": "12495.00",
+    "Numbers": "34",
+    "Letters": "FEA",
+    "Status": "Available"
+  },
+  {
+    "Id": "E24F2C11-409B-4C18-BD55-4248E124A868",
+    "Registration": "W4LTO",
+    "PurchasePrice": "93.92",
+    "SalePrice": "6995.00",
+    "Numbers": "4",
+    "Letters": "WAL",
+    "Status": "Available"
+  },
+  {
+    "Id": "23972ED4-6600-4637-8D47-91940F87193A",
+    "Registration": "W44YTE",
+    "PurchasePrice": "1054.90",
+    "SalePrice": "8995.00",
+    "Numbers": "44",
+    "Letters": "WAY",
+    "Status": "Available"
+  },
+  {
+    "Id": "D923F58E-0682-4AB8-869A-820B6D2A79F7",
+    "Registration": "W44LBY",
+    "PurchasePrice": "352.25",
+    "SalePrice": "8995.00",
+    "Numbers": "44",
+    "Letters": "WAL",
+    "Status": "Available"
+  },
+  {
+    "Id": "0E62A805-4FDA-4DE2-BE33-EA2BF23929E1",
+    "Registration": "AL55OPS",
+    "PurchasePrice": "2885.95",
+    "SalePrice": "9995.00",
+    "Numbers": "55",
+    "Letters": "ALS",
+    "Status": "Available"
+  },
+  {
+    "Id": "2F0FCBC3-9C36-4785-8AC2-F3AABE009C75",
+    "Registration": "56PAM",
+    "PurchasePrice": "2419.65",
+    "SalePrice": "8995.00",
+    "Numbers": "56",
+    "Letters": "PAM",
+    "Status": "Available"
+  },
+  {
+    "Id": "EDC2B308-3275-4F6B-A597-2DFD7E95F291",
+    "Registration": "1PEW",
+    "PurchasePrice": "914.35",
+    "SalePrice": "49995.00",
+    "Numbers": "1",
+    "Letters": "PEW",
+    "Status": "Available"
+  },
+  {
+    "Id": "729A4EF2-C0C2-47EE-B40C-187CB7961D13",
+    "Registration": "PJO11Y",
+    "PurchasePrice": "316.93",
+    "SalePrice": "9995.00",
+    "Numbers": "11",
+    "Letters": "JOL",
+    "Status": "Available"
+  },
+  {
+    "Id": "E0F990E5-ED86-4DC5-A38B-69A9FAB6ABE4",
+    "Registration": "DEZ4",
+    "PurchasePrice": "899.26",
+    "SalePrice": "14995.00",
+    "Numbers": "4",
+    "Letters": "DEZ",
+    "Status": "Available"
+  },
+  {
+    "Id": "7911D69C-23D3-4EEA-9EA5-28F8D67EC91A",
+    "Registration": "VSM17H",
+    "PurchasePrice": "2652.55",
+    "SalePrice": "24995.00",
+    "Numbers": "17",
+    "Letters": "SMI",
+    "Status": "Available"
+  },
+  {
+    "Id": "4BFBBFA4-4B61-4D2D-B32C-89CE3A730FB6",
+    "Registration": "V17TLE",
+    "PurchasePrice": "481.64",
+    "SalePrice": "8995.00",
+    "Numbers": "17",
+    "Letters": "VIT",
+    "Status": "Available"
+  },
+  {
+    "Id": "8215AB50-7CC4-4DED-9053-8FD585444A58",
+    "Registration": "W31LUM",
+    "PurchasePrice": "2628.61",
+    "SalePrice": "7995.00",
+    "Numbers": "31",
+    "Letters": "WEL",
+    "Status": "Available"
+  },
+  {
+    "Id": "5D73E844-8A30-4203-978C-EAF8A22C60AE",
+    "Registration": "W33YER",
+    "PurchasePrice": "1283.07",
+    "SalePrice": "6995.00",
+    "Numbers": "33",
+    "Letters": "WEY",
+    "Status": "Available"
+  },
+  {
+    "Id": "F294BB15-52E1-4407-9D42-CA888F72676E",
+    "Registration": "P33GGE",
+    "PurchasePrice": "1296.35",
+    "SalePrice": "7995.00",
+    "Numbers": "33",
+    "Letters": "PEG",
+    "Status": "Available"
+  },
+  {
+    "Id": "34E77A4A-876C-461E-961A-FE4050C8E01A",
+    "Registration": "V17LER",
+    "PurchasePrice": "551.65",
+    "SalePrice": "14995.00",
+    "Numbers": "17",
+    "Letters": "VIT",
+    "Status": "Available"
+  },
+  {
+    "Id": "E8744584-B76B-4667-A5F9-3B0278C41AED",
+    "Registration": "T33MME",
+    "PurchasePrice": "2275.52",
+    "SalePrice": "6995.00",
+    "Numbers": "33",
+    "Letters": "TEM",
+    "Status": "Available"
+  },
+  {
+    "Id": "D430721A-425E-406B-80BA-D507200093AB",
+    "Registration": "M44RFO",
+    "PurchasePrice": "118.76",
+    "SalePrice": "6995.00",
+    "Numbers": "44",
+    "Letters": "MAR",
+    "Status": "Available"
+  },
+  {
+    "Id": "7D3703CB-9864-447A-8195-ECEFA27DA31D",
+    "Registration": "R44YET",
+    "PurchasePrice": "770.05",
+    "SalePrice": "6995.00",
+    "Numbers": "44",
+    "Letters": "RAY",
+    "Status": "Available"
+  },
+  {
+    "Id": "8385E143-9E51-419E-BB67-2057AE17458F",
+    "Registration": "R33AVY",
+    "PurchasePrice": "511.72",
+    "SalePrice": "6995.00",
+    "Numbers": "33",
+    "Letters": "REA",
+    "Status": "Available"
+  },
+  {
+    "Id": "B294593C-46D6-4FBD-BFBA-203ACBAA02A5",
+    "Registration": "M33ERE",
+    "PurchasePrice": "817.27",
+    "SalePrice": "8995.00",
+    "Numbers": "33",
+    "Letters": "MEE",
+    "Status": "Available"
+  },
+  {
+    "Id": "A33068C5-34A2-426B-AFFB-A821134F325D",
+    "Registration": "S33XON",
+    "PurchasePrice": "1107.79",
+    "SalePrice": "6995.00",
+    "Numbers": "33",
+    "Letters": "SEX",
+    "Status": "Available"
+  },
+  {
+    "Id": "F434D723-7785-44D9-BB00-DF44899AF7D4",
+    "Registration": "N33HRA",
+    "PurchasePrice": "32218.26",
+    "SalePrice": "7995.00",
+    "Numbers": "33",
+    "Letters": "NEH",
+    "Status": "Available"
+  },
+  {
+    "Id": "1465FAE9-5752-4D66-A1E5-C3CDA58F1129",
+    "Registration": "P33RER",
+    "PurchasePrice": "913.45",
+    "SalePrice": "6995.00",
+    "Numbers": "33",
+    "Letters": "PER",
+    "Status": "Available"
+  },
+  {
+    "Id": "3FEFAACF-F0CC-4D18-9780-13E0707908F4",
+    "Registration": "T33STO",
+    "PurchasePrice": "861.53",
+    "SalePrice": "6995.00",
+    "Numbers": "33",
+    "Letters": "TES",
+    "Status": "Available"
+  },
+  {
+    "Id": "2D3233D5-0C18-4E32-A5A6-6F414C8FC4A3",
+    "Registration": "T24PPE",
+    "PurchasePrice": "92.64",
+    "SalePrice": "8995.00",
+    "Numbers": "24",
+    "Letters": "TRA",
+    "Status": "Available"
+  },
+  {
+    "Id": "59496D8E-552F-46F9-B59F-EA16FA38DC94",
+    "Registration": "B12WON",
+    "PurchasePrice": "1801.88",
+    "SalePrice": "6995.00",
+    "Numbers": "12",
+    "Letters": "BRW",
+    "Status": "Available"
+  },
+  {
+    "Id": "4E134C7A-B25F-4B2D-AFE2-5F383D35273E",
+    "Registration": "V33RNA",
+    "PurchasePrice": "5161.39",
+    "SalePrice": "7995.00",
+    "Numbers": "33",
+    "Letters": "VER",
+    "Status": "Available"
+  },
+  {
+    "Id": "34BA27B5-8098-4E03-842C-130F205E1EC1",
+    "Registration": "W33ARE",
+    "PurchasePrice": "278.90",
+    "SalePrice": "8995.00",
+    "Numbers": "33",
+    "Letters": "WEA",
+    "Status": "Available"
+  },
+  {
+    "Id": "A0C70E97-BD0F-4F08-A2EE-16DEF61A61E3",
+    "Registration": "V33SEY",
+    "PurchasePrice": "2085.30",
+    "SalePrice": "7995.00",
+    "Numbers": "33",
+    "Letters": "VES",
+    "Status": "Available"
+  },
+  {
+    "Id": "41C5ED35-60D7-42EE-B6AF-A36F8305D36D",
+    "Registration": "Y44RDE",
+    "PurchasePrice": "1783.02",
+    "SalePrice": "8995.00",
+    "Numbers": "44",
+    "Letters": "YAR",
+    "Status": "Available"
+  },
+  {
+    "Id": "69788F79-0DB0-4D34-AA37-335884943D66",
+    "Registration": "N33AME",
+    "PurchasePrice": "817.89",
+    "SalePrice": "7995.00",
+    "Numbers": "33",
+    "Letters": "NEA",
+    "Status": "Available"
+  },
+  {
+    "Id": "84119004-AE9C-4DE5-81A6-0487743818BB",
+    "Registration": "V333RMA",
+    "PurchasePrice": "2852.05",
+    "SalePrice": "6995.00",
+    "Numbers": "333",
+    "Letters": "VER",
+    "Status": "Available"
+  },
+  {
+    "Id": "D0352B16-3BFD-4CF5-9DBA-91A15A482171",
+    "Registration": "T444BOR",
+    "PurchasePrice": "129.43",
+    "SalePrice": "7995.00",
+    "Numbers": "444",
+    "Letters": "TAB",
+    "Status": "Available"
+  },
+  {
+    "Id": "155D628A-5359-4A10-844E-61C88AD88BE8",
+    "Registration": "S333AGO",
+    "PurchasePrice": "1872.38",
+    "SalePrice": "7995.00",
+    "Numbers": "333",
+    "Letters": "SEA",
+    "Status": "Available"
+  },
+  {
+    "Id": "47AEAC16-93FB-4487-A608-DCF058043FDC",
+    "Registration": "W44SPE",
+    "PurchasePrice": "874.03",
+    "SalePrice": "8995.00",
+    "Numbers": "44",
+    "Letters": "WAS",
+    "Status": "Available"
+  },
+  {
+    "Id": "6AB193A0-A2D0-45D7-9331-2EE11C4C74B6",
+    "Registration": "T33BBY",
+    "PurchasePrice": "237.41",
+    "SalePrice": "7995.00",
+    "Numbers": "33",
+    "Letters": "TEB",
+    "Status": "Available"
+  },
+  {
+    "Id": "B2A9AC85-7F11-4E82-8F33-633CC00B79BA",
+    "Registration": "L333AFE",
+    "PurchasePrice": "1949.56",
+    "SalePrice": "8995.00",
+    "Numbers": "333",
+    "Letters": "LEA",
+    "Status": "Available"
+  },
+  {
+    "Id": "87249FEF-2C7D-4C05-9003-D8F12DF20783",
+    "Registration": "R44NBY",
+    "PurchasePrice": "1252.59",
+    "SalePrice": "8995.00",
+    "Numbers": "44",
+    "Letters": "RAN",
+    "Status": "Available"
+  },
+  {
+    "Id": "35E0265D-2473-4797-B412-0186C02BABDC",
+    "Registration": "V33REY",
+    "PurchasePrice": "981.54",
+    "SalePrice": "8995.00",
+    "Numbers": "33",
+    "Letters": "VER",
+    "Status": "Available"
+  },
+  {
+    "Id": "5904D5F8-ABFB-4C39-ACB3-F8B6FD03EE72",
+    "Registration": "Y33RBY",
+    "PurchasePrice": "3771.15",
+    "SalePrice": "7995.00",
+    "Numbers": "33",
+    "Letters": "YER",
+    "Status": "Available"
+  },
+  {
+    "Id": "5D03FBA2-3881-4EE8-98D0-89D71D03B504",
+    "Registration": "W111LLA",
+    "PurchasePrice": "111.86",
+    "SalePrice": "7995.00",
+    "Numbers": "111",
+    "Letters": "WIL",
+    "Status": "Available"
+  },
+  {
+    "Id": "39BD80FB-285E-4891-9F2D-4C98F8F800EC",
+    "Registration": "T333BBY",
+    "PurchasePrice": "405.64",
+    "SalePrice": "6995.00",
+    "Numbers": "333",
+    "Letters": "TEB",
+    "Status": "Available"
+  },
+  {
+    "Id": "D638D3AD-D613-4BB6-AA41-A10EB5677902",
+    "Registration": "V444LMA",
+    "PurchasePrice": "88.29",
+    "SalePrice": "6995.00",
+    "Numbers": "444",
+    "Letters": "VAL",
+    "Status": "Available"
+  },
+  {
+    "Id": "A8BF6741-753F-408F-99FF-BF2AF0219E61",
+    "Registration": "L444VED",
+    "PurchasePrice": "1021.57",
+    "SalePrice": "6995.00",
+    "Numbers": "444",
+    "Letters": "LAV",
+    "Status": "Available"
+  },
+  {
+    "Id": "BA00E568-F04A-4054-B281-581E4A7AFC80",
+    "Registration": "DEZ8",
+    "PurchasePrice": "4683.31",
+    "SalePrice": "12995.00",
+    "Numbers": "8",
+    "Letters": "DEZ",
+    "Status": "Available"
+  },
+  {
+    "Id": "782D5CC7-0AC2-4BB4-A995-47928E67D76F",
+    "Registration": "DE53REE",
+    "PurchasePrice": "312.77",
+    "SalePrice": "14995.00",
+    "Numbers": "53",
+    "Letters": "DES",
+    "Status": "Available"
+  },
+  {
+    "Id": "ADCB42BE-8D9F-4554-8CE3-17643C74AC75",
+    "Registration": "ABA7E",
+    "PurchasePrice": "525.10",
+    "SalePrice": "19995.00",
+    "Numbers": "7",
+    "Letters": "ABA",
+    "Status": "Available"
+  },
+  {
+    "Id": "696BE0D6-A1EF-4ABA-ADE1-069FBCECDF1B",
+    "Registration": "BAS4L",
+    "PurchasePrice": "999.57",
+    "SalePrice": "7995.00",
+    "Numbers": "4",
+    "Letters": "ASA",
+    "Status": "Available"
+  },
+  {
+    "Id": "F578DA5E-C382-45F7-8043-EF6B98106171",
+    "Registration": "ELE16H",
+    "PurchasePrice": "423.00",
+    "SalePrice": "8995.00",
+    "Numbers": "16",
+    "Letters": "LEI",
+    "Status": "Available"
+  },
+  {
+    "Id": "464347A0-CDCB-48BC-BA5E-3A0C6FEC9E9D",
+    "Registration": "ETY13R",
+    "PurchasePrice": "2622.24",
+    "SalePrice": "8995.00",
+    "Numbers": "13",
+    "Letters": "TYL",
+    "Status": "Available"
+  },
+  {
+    "Id": "40396286-AC98-4749-8067-3D45C85A6DC6",
+    "Registration": "FOL4N",
+    "PurchasePrice": "1974.47",
+    "SalePrice": "29995.00",
+    "Numbers": "4",
+    "Letters": "FOL",
+    "Status": "Available"
+  },
+  {
+    "Id": "7F7C39C8-6842-44A3-AABD-30464562077A",
+    "Registration": "FON5E",
+    "PurchasePrice": "3794.88",
+    "SalePrice": "8995.00",
+    "Numbers": "5",
+    "Letters": "FON",
+    "Status": "Available"
+  },
+  {
+    "Id": "4A67172D-6EE0-43FC-B767-5BEF3B60FDE3",
+    "Registration": "HWA15H",
+    "PurchasePrice": "656.20",
+    "SalePrice": "9995.00",
+    "Numbers": "15",
+    "Letters": "WAL",
+    "Status": "Available"
+  },
+  {
+    "Id": "B3E0FDCC-C0D7-45E2-BC0C-8D0FAF28A750",
+    "Registration": "E17SON",
+    "PurchasePrice": "589.44",
+    "SalePrice": "6995.00",
+    "Numbers": "17",
+    "Letters": "ENS",
+    "Status": "Available"
+  },
+  {
+    "Id": "CC417A9D-C570-47B2-9F83-77A6E9610327",
+    "Registration": "E11GEN",
+    "PurchasePrice": "2673.14",
+    "SalePrice": "8995.00",
+    "Numbers": "11",
+    "Letters": "ELG",
+    "Status": "Available"
+  },
+  {
+    "Id": "6435CA75-01CB-4A45-A49B-12C1C62C58BD",
+    "Registration": "E11JAS",
+    "PurchasePrice": "974.20",
+    "SalePrice": "8995.00",
+    "Numbers": "11",
+    "Letters": "ELI",
+    "Status": "Available"
+  },
+  {
+    "Id": "6DB5C056-3F59-432D-BD7C-664427778C55",
+    "Registration": "VH08DAY",
+    "PurchasePrice": "884.01",
+    "SalePrice": "8995.00",
+    "Numbers": "08",
+    "Letters": "HOB",
+    "Status": "Available"
+  },
+  {
+    "Id": "07DDEBA7-B7E6-478B-A278-817458C77F5D",
+    "Registration": "BEL50N",
+    "PurchasePrice": "11616.22",
+    "SalePrice": "29995.00",
+    "Numbers": "50",
+    "Letters": "BEL",
+    "Status": "Available"
+  },
+  {
+    "Id": "7796E563-BEA7-4872-BCF7-FA0673DB0F76",
+    "Registration": "84RBJ",
+    "PurchasePrice": "764.48",
+    "SalePrice": "5995.00",
+    "Numbers": "84",
+    "Letters": "RBJ",
+    "Status": "Available"
+  },
+  {
+    "Id": "2DD9ECFF-A135-4BEB-AEBB-8F213FA1B383",
+    "Registration": "VAL321E",
+    "PurchasePrice": "347.20",
+    "SalePrice": "19995.00",
+    "Numbers": "321",
+    "Letters": "VAL",
+    "Status": "Available"
+  },
+  {
+    "Id": "3B79E459-0009-495D-8AB6-094F9091A30F",
+    "Registration": "FAG8N",
+    "PurchasePrice": "877.36",
+    "SalePrice": "14995.00",
+    "Numbers": "8",
+    "Letters": "FAG",
+    "Status": "Available"
+  },
+  {
+    "Id": "5BAD21E3-327C-4BA4-8B92-C265BB9DDCA9",
+    "Registration": "E5TES",
+    "PurchasePrice": "2838.80",
+    "SalePrice": "9995.00",
+    "Numbers": "5",
+    "Letters": "EST",
+    "Status": "Available"
+  },
+  {
+    "Id": "3C7A7801-C898-40BA-ABF8-7215D9D777C9",
+    "Registration": "1VA",
+    "PurchasePrice": "264.17",
+    "SalePrice": "175000.00",
+    "Numbers": "1",
+    "Letters": "VA",
+    "Status": "Available"
+  },
+  {
+    "Id": "C9F73216-8EC5-42CC-B61D-E600A066A754",
+    "Registration": "F3ARY",
+    "PurchasePrice": "447.89",
+    "SalePrice": "19995.00",
+    "Numbers": "3",
+    "Letters": "FEA",
+    "Status": "Available"
+  },
+  {
+    "Id": "51D99AA5-71FD-4289-A542-03D730E045EB",
+    "Registration": "FEN8Y",
+    "PurchasePrice": "441.77",
+    "SalePrice": "14995.00",
+    "Numbers": "8",
+    "Letters": "FEN",
+    "Status": "Available"
+  },
+  {
+    "Id": "DC39FE2A-B663-45EF-8808-7895C5A4F9ED",
+    "Registration": "S41TON",
+    "PurchasePrice": "1707.30",
+    "SalePrice": "9995.00",
+    "Numbers": "41",
+    "Letters": "SAL",
+    "Status": "Available"
+  },
+  {
+    "Id": "53207695-DCEF-4BEA-B470-8302367EB153",
+    "Registration": "W41KES",
+    "PurchasePrice": "390.07",
+    "SalePrice": "9995.00",
+    "Numbers": "41",
+    "Letters": "WAL",
+    "Status": "Available"
+  },
+  {
+    "Id": "346F8684-BC7D-4AB7-A766-5B04EC96E053",
+    "Registration": "ARK31L",
+    "PurchasePrice": "84.60",
+    "SalePrice": "9995.00",
+    "Numbers": "31",
+    "Letters": "ARK",
+    "Status": "Available"
+  },
+  {
+    "Id": "D39213FD-D4E4-47F2-9165-25AF0146C612",
+    "Registration": "ARN37T",
+    "PurchasePrice": "467.46",
+    "SalePrice": "14995.00",
+    "Numbers": "37",
+    "Letters": "ARN",
+    "Status": "Available"
+  },
+  {
+    "Id": "9F72A640-D226-4EFD-9554-92F85787110C",
+    "Registration": "A217OLD",
+    "PurchasePrice": "2671.77",
+    "SalePrice": "8995.00",
+    "Numbers": "217",
+    "Letters": "ARN",
+    "Status": "Available"
+  },
+  {
+    "Id": "6358A226-BD71-44A7-9E6B-5AF6EC7587F6",
+    "Registration": "A850LAM",
+    "PurchasePrice": "864.91",
+    "SalePrice": "14995.00",
+    "Numbers": "850",
+    "Letters": "ABS",
+    "Status": "Available"
+  },
+  {
+    "Id": "D926CA3F-8A57-4620-BF2F-D7E05AD795CE",
+    "Registration": "BEA721X",
+    "PurchasePrice": "895.22",
+    "SalePrice": "14995.00",
+    "Numbers": "721",
+    "Letters": "BEA",
+    "Status": "Available"
+  },
+  {
+    "Id": "53F95B94-CA16-43DB-AB65-DFA54A235584",
+    "Registration": "BOL50M",
+    "PurchasePrice": "1468.31",
+    "SalePrice": "19995.00",
+    "Numbers": "50",
+    "Letters": "BOL",
+    "Status": "Available"
+  },
+  {
+    "Id": "8828A9CF-8506-48B2-9E98-3852F654DDF0",
+    "Registration": "BOY70N",
+    "PurchasePrice": "16516.57",
+    "SalePrice": "19995.00",
+    "Numbers": "70",
+    "Letters": "BOY",
+    "Status": "Available"
+  },
+  {
+    "Id": "8C1D1A2D-88DC-419E-B88E-786DC7FFEF69",
+    "Registration": "B31DON",
+    "PurchasePrice": "531.28",
+    "SalePrice": "9995.00",
+    "Numbers": "31",
+    "Letters": "BEL",
+    "Status": "Available"
+  },
+  {
+    "Id": "4AB05451-B550-407F-A97C-470175D8D038",
+    "Registration": "B35ANT",
+    "PurchasePrice": "626.82",
+    "SalePrice": "9995.00",
+    "Numbers": "35",
+    "Letters": "BES",
+    "Status": "Available"
+  },
+  {
+    "Id": "4912EE3C-9DAE-4BE7-8D52-FA26DE613E47",
+    "Registration": "B42LOW",
+    "PurchasePrice": "859.20",
+    "SalePrice": "19995.00",
+    "Numbers": "42",
+    "Letters": "BAR",
+    "Status": "Available"
+  },
+  {
+    "Id": "6BDE891E-0FC0-49CC-88D7-04FC09BFAFEC",
+    "Registration": "B42TON",
+    "PurchasePrice": "306.74",
+    "SalePrice": "14995.00",
+    "Numbers": "42",
+    "Letters": "BAR",
+    "Status": "Available"
+  },
+  {
+    "Id": "0F0DBEC8-49BC-470A-A2A5-7EA02E572F13",
+    "Registration": "COT73N",
+    "PurchasePrice": "161.73",
+    "SalePrice": "14995.00",
+    "Numbers": "73",
+    "Letters": "COT",
+    "Status": "Available"
+  },
+  {
+    "Id": "F66C2656-287F-4877-BC8F-0D2E9E6E71F4",
+    "Registration": "DEN570N",
+    "PurchasePrice": "465.45",
+    "SalePrice": "19995.00",
+    "Numbers": "570",
+    "Letters": "DEN",
+    "Status": "Available"
+  },
+  {
+    "Id": "E962B3D9-BFD0-41D4-8736-FBC7521B7519",
+    "Registration": "DOY111E",
+    "PurchasePrice": "279.38",
+    "SalePrice": "19995.00",
+    "Numbers": "111",
+    "Letters": "DOY",
+    "Status": "Available"
+  },
+  {
+    "Id": "6B38E939-F7F5-4A15-86B8-26E2D904ED4F",
+    "Registration": "FRE33R",
+    "PurchasePrice": "339.31",
+    "SalePrice": "8995.00",
+    "Numbers": "33",
+    "Letters": "FRE",
+    "Status": "Available"
+  },
+  {
+    "Id": "171CEE00-C6C8-4B58-B5CF-5776118C2CD2",
+    "Registration": "GER242D",
+    "PurchasePrice": "7479.30",
+    "SalePrice": "12495.00",
+    "Numbers": "242",
+    "Letters": "GER",
+    "Status": "Available"
+  },
+  {
+    "Id": "76DDF5CC-4AC7-4BE4-913E-59FE5A3238E7",
+    "Registration": "HAL832T",
+    "PurchasePrice": "1331.04",
+    "SalePrice": "14995.00",
+    "Numbers": "832",
+    "Letters": "HAL",
+    "Status": "Available"
+  },
+  {
+    "Id": "2A443010-1D3A-4019-A890-26FB4027F31E",
+    "Registration": "HEM50N",
+    "PurchasePrice": "178.29",
+    "SalePrice": "19995.00",
+    "Numbers": "50",
+    "Letters": "HEM",
+    "Status": "Available"
+  },
+  {
+    "Id": "3FCCFFE9-08B5-4EA7-85E2-8FEEF969DEC2",
+    "Registration": "HOB42T",
+    "PurchasePrice": "1142.84",
+    "SalePrice": "14995.00",
+    "Numbers": "42",
+    "Letters": "HOB",
+    "Status": "Available"
+  },
+  {
+    "Id": "883F6DF9-0324-4F07-BC0C-C84F8E3B90AF",
+    "Registration": "LAN513Y",
+    "PurchasePrice": "1997.74",
+    "SalePrice": "14995.00",
+    "Numbers": "513",
+    "Letters": "LAN",
+    "Status": "Available"
+  },
+  {
+    "Id": "6E38554A-6DB0-40DF-BE30-128EAB58CF58",
+    "Registration": "LOP3S",
+    "PurchasePrice": "846.34",
+    "SalePrice": "14995.00",
+    "Numbers": "3",
+    "Letters": "LOP",
+    "Status": "Available"
+  },
+  {
+    "Id": "23B4DD77-743F-43EA-A68F-9EF87B8615F0",
+    "Registration": "L41AND",
+    "PurchasePrice": "32.64",
+    "SalePrice": "9995.00",
+    "Numbers": "41",
+    "Letters": "LAL",
+    "Status": "Available"
+  },
+  {
+    "Id": "151501B5-489D-46D8-B4AF-4DFD3FEA869E",
+    "Registration": "MAP3S",
+    "PurchasePrice": "342.87",
+    "SalePrice": "14995.00",
+    "Numbers": "3",
+    "Letters": "MAP",
+    "Status": "Available"
+  },
+  {
+    "Id": "C93ACE10-4371-48F5-9645-B91EECE1D528",
+    "Registration": "MER12Y",
+    "PurchasePrice": "1376.09",
+    "SalePrice": "14995.00",
+    "Numbers": "12",
+    "Letters": "MER",
+    "Status": "Available"
+  },
+  {
+    "Id": "84A2F426-A66F-4A1D-8577-30C06D3F7208",
+    "Registration": "NOV31L",
+    "PurchasePrice": "932.72",
+    "SalePrice": "9995.00",
+    "Numbers": "31",
+    "Letters": "NOV",
+    "Status": "Available"
+  },
+  {
+    "Id": "3D4D6C24-8B88-4727-A64F-F14DB471FEF7",
+    "Registration": "PAN377A",
+    "PurchasePrice": "284.64",
+    "SalePrice": "14995.00",
+    "Numbers": "377",
+    "Letters": "PAN",
+    "Status": "Available"
+  },
+  {
+    "Id": "1B2387AC-0ABF-4EAD-A7FD-AA5B3E7CAD5A",
+    "Registration": "PHA53Y",
+    "PurchasePrice": "649.35",
+    "SalePrice": "9995.00",
+    "Numbers": "53",
+    "Letters": "PHA",
+    "Status": "Available"
+  },
+  {
+    "Id": "9A42F831-35EB-43E3-BCDE-0371DA997861",
+    "Registration": "P247LEY",
+    "PurchasePrice": "416.06",
+    "SalePrice": "14995.00",
+    "Numbers": "247",
+    "Letters": "PRA",
+    "Status": "Available"
+  },
+  {
+    "Id": "7F476509-DC2B-4589-875A-7EA96061E022",
+    "Registration": "SOP3R",
+    "PurchasePrice": "493.76",
+    "SalePrice": "19995.00",
+    "Numbers": "3",
+    "Letters": "SOP",
+    "Status": "Available"
+  },
+  {
+    "Id": "083921AE-1245-483F-BECA-1E22FF1844C1",
+    "Registration": "T216GER",
+    "PurchasePrice": "3310.16",
+    "SalePrice": "9995.00",
+    "Numbers": "216",
+    "Letters": "TRI",
+    "Status": "Available"
+  },
+  {
+    "Id": "FFBC68AA-44AA-4712-9451-116294487517",
+    "Registration": "WEL50N",
+    "PurchasePrice": "489.74",
+    "SalePrice": "14995.00",
+    "Numbers": "50",
+    "Letters": "WEL",
+    "Status": "Available"
+  },
+  {
+    "Id": "3503100F-5C32-45FC-BA26-D38CAF72733A",
+    "Registration": "WHE470N",
+    "PurchasePrice": "872.68",
+    "SalePrice": "14995.00",
+    "Numbers": "470",
+    "Letters": "WHE",
+    "Status": "Available"
+  },
+  {
+    "Id": "57FFC617-6BF9-44BA-ACE0-703787500148",
+    "Registration": "W41COT",
+    "PurchasePrice": "95.36",
+    "SalePrice": "14995.00",
+    "Numbers": "41",
+    "Letters": "WAL",
+    "Status": "Available"
+  },
+  {
+    "Id": "FD8BD01C-93E9-4074-B101-57C998DCD40C",
+    "Registration": "W42LOW",
+    "PurchasePrice": "506.37",
+    "SalePrice": "12495.00",
+    "Numbers": "42",
+    "Letters": "WAR",
+    "Status": "Available"
+  },
+  {
+    "Id": "0104ECDC-1190-431A-A1BB-1D7ED0FE7CEA",
+    "Registration": "W47NEY",
+    "PurchasePrice": "282.89",
+    "SalePrice": "14995.00",
+    "Numbers": "47",
+    "Letters": "WAT",
+    "Status": "Available"
+  },
+  {
+    "Id": "64284E3A-94A5-4679-9134-C5EF579BFD7C",
+    "Registration": "YOG3N",
+    "PurchasePrice": "460.46",
+    "SalePrice": "14995.00",
+    "Numbers": "3",
+    "Letters": "YOG",
+    "Status": "Available"
+  },
+  {
+    "Id": "BAF34D2D-31E5-4060-A2A4-8586D8E8DC26",
+    "Registration": "A110WES",
+    "PurchasePrice": "39.95",
+    "SalePrice": "6995.00",
+    "Numbers": "110",
+    "Letters": "HOW",
+    "Status": "Available"
+  },
+  {
+    "Id": "9DD5F29C-7649-4251-83A6-AFFB65743689",
+    "Registration": "EAR17H",
+    "PurchasePrice": "9172.70",
+    "SalePrice": "14995.00",
+    "Numbers": "17",
+    "Letters": "EAR",
+    "Status": "Available"
+  },
+  {
+    "Id": "2B7EC4E8-2185-48C0-9051-F2D24E7643E6",
+    "Registration": "FOR7T",
+    "PurchasePrice": "456.91",
+    "SalePrice": "14995.00",
+    "Numbers": "7",
+    "Letters": "FOR",
+    "Status": "Available"
+  },
+  {
+    "Id": "0DCBEAA2-29DE-4951-9F13-122B2F5286B0",
+    "Registration": "FOR53Y",
+    "PurchasePrice": "269.14",
+    "SalePrice": "19995.00",
+    "Numbers": "53",
+    "Letters": "FOR",
+    "Status": "Available"
+  },
+  {
+    "Id": "7D54CC07-0086-4137-8C6B-D3303CA0DBD9",
+    "Registration": "FUR10W",
+    "PurchasePrice": "1326.54",
+    "SalePrice": "19995.00",
+    "Numbers": "10",
+    "Letters": "FUR",
+    "Status": "Available"
+  },
+  {
+    "Id": "47686D51-339D-4827-9CD9-62ABB061EFED",
+    "Registration": "F31DON",
+    "PurchasePrice": "1923.31",
+    "SalePrice": "14995.00",
+    "Numbers": "31",
+    "Letters": "FEL",
+    "Status": "Available"
+  },
+  {
+    "Id": "CEE6DD89-93BE-4433-BF6E-8ACFBBDAAB95",
+    "Registration": "G236SON",
+    "PurchasePrice": "874.46",
+    "SalePrice": "14995.00",
+    "Numbers": "236",
+    "Letters": "GRE",
+    "Status": "Available"
+  },
+  {
+    "Id": "C2C74D71-1092-4C09-8EA1-E4873C70D9A7",
+    "Registration": "HAS137T",
+    "PurchasePrice": "75.29",
+    "SalePrice": "9995.00",
+    "Numbers": "137",
+    "Letters": "HAS",
+    "Status": "Available"
+  },
+  {
+    "Id": "830C2985-EE12-48C6-8863-48B4B7A2D88F",
+    "Registration": "HAY13S",
+    "PurchasePrice": "1008.70",
+    "SalePrice": "19995.00",
+    "Numbers": "13",
+    "Letters": "HAY",
+    "Status": "Available"
+  },
+  {
+    "Id": "0458AE4E-829C-45C1-892B-E18C67A3AB16",
+    "Registration": "HES53Y",
+    "PurchasePrice": "644.06",
+    "SalePrice": "14995.00",
+    "Numbers": "53",
+    "Letters": "HES",
+    "Status": "Available"
+  },
+  {
+    "Id": "E3FEC771-1B67-4E39-8BF2-C9EF57DD2AB2",
+    "Registration": "HOG427H",
+    "PurchasePrice": "1050.01",
+    "SalePrice": "12495.00",
+    "Numbers": "427",
+    "Letters": "HOG",
+    "Status": "Available"
+  },
+  {
+    "Id": "43892422-271B-441E-8EA0-447AAB6027C8",
+    "Registration": "HOX8Y",
+    "PurchasePrice": "105.04",
+    "SalePrice": "14995.00",
+    "Numbers": "8",
+    "Letters": "HOX",
+    "Status": "Available"
+  },
+  {
+    "Id": "07C4CD2F-E526-47A3-8F1C-B457BB9EFDDB",
+    "Registration": "LES53R",
+    "PurchasePrice": "40338.80",
+    "SalePrice": "14995.00",
+    "Numbers": "53",
+    "Letters": "LES",
+    "Status": "Available"
+  },
+  {
+    "Id": "F86B8DFF-4B01-47AF-81A1-41814051FB91",
+    "Registration": "LET50N",
+    "PurchasePrice": "143786.36",
+    "SalePrice": "19995.00",
+    "Numbers": "50",
+    "Letters": "LET",
+    "Status": "Available"
+  },
+  {
+    "Id": "991DB3EF-D2B4-48AF-A07D-AFCBE558486B",
+    "Registration": "LOT3N",
+    "PurchasePrice": "3476.69",
+    "SalePrice": "14995.00",
+    "Numbers": "3",
+    "Letters": "LOT",
+    "Status": "Available"
+  },
+  {
+    "Id": "4C13922D-2AEC-4371-908D-E0B08788714A",
+    "Registration": "L377ERS",
+    "PurchasePrice": "629.82",
+    "SalePrice": "14995.00",
+    "Numbers": "377",
+    "Letters": "LET",
+    "Status": "Available"
+  },
+  {
+    "Id": "37757860-D63A-440C-A3F4-55E2CC6AFA66",
+    "Registration": "M34KER",
+    "PurchasePrice": "781.29",
+    "SalePrice": "14995.00",
+    "Numbers": "34",
+    "Letters": "MEA",
+    "Status": "Available"
+  },
+  {
+    "Id": "90FE4CCE-A4CF-45DE-8C1B-18B6B5FF6325",
+    "Registration": "NOT746E",
+    "PurchasePrice": "3989.18",
+    "SalePrice": "14995.00",
+    "Numbers": "746",
+    "Letters": "NOT",
+    "Status": "Available"
+  },
+  {
+    "Id": "C5FFB3CB-1D83-43DE-9642-72004B1C6A76",
+    "Registration": "N388ETT",
+    "PurchasePrice": "142.02",
+    "SalePrice": "14995.00",
+    "Numbers": "388",
+    "Letters": "NEB",
+    "Status": "Available"
+  },
+  {
+    "Id": "CBEDCA8E-7054-407D-9CA2-CB0A0D38A176",
+    "Registration": "OND3R",
+    "PurchasePrice": "897.65",
+    "SalePrice": "14995.00",
+    "Numbers": "3",
+    "Letters": "OND",
+    "Status": "Available"
+  },
+  {
+    "Id": "68A03B36-6B6D-4BB8-82C4-BAC72C5B3378",
+    "Registration": "ONE41E",
+    "PurchasePrice": "1066.89",
+    "SalePrice": "14995.00",
+    "Numbers": "41",
+    "Letters": "ONE",
+    "Status": "Available"
+  },
+  {
+    "Id": "1048B256-FDE4-4E27-99CC-F46660094DC5",
+    "Registration": "ORV111L",
+    "PurchasePrice": "3725.37",
+    "SalePrice": "7995.00",
+    "Numbers": "111",
+    "Letters": "ORV",
+    "Status": "Available"
+  },
+  {
+    "Id": "D1F5A8FB-B8A7-4CFD-A19F-79376B7BB0A9",
+    "Registration": "PEM83R",
+    "PurchasePrice": "1241.85",
+    "SalePrice": "19995.00",
+    "Numbers": "83",
+    "Letters": "PEM",
+    "Status": "Available"
+  },
+  {
+    "Id": "005C5B56-6C39-4F3A-8E6F-C82AE80A7E44",
+    "Registration": "PEN770N",
+    "PurchasePrice": "1459.26",
+    "SalePrice": "14995.00",
+    "Numbers": "770",
+    "Letters": "PEN",
+    "Status": "Available"
+  },
+  {
+    "Id": "E8F7EA71-325D-4226-BC83-0813AAB92BD0",
+    "Registration": "PEX70N",
+    "PurchasePrice": "42.62",
+    "SalePrice": "24995.00",
+    "Numbers": "70",
+    "Letters": "PEX",
+    "Status": "Available"
+  },
+  {
+    "Id": "AE140E97-AF4D-4A40-9A81-E73C019080C5",
+    "Registration": "PUR55E",
+    "PurchasePrice": "340.39",
+    "SalePrice": "14995.00",
+    "Numbers": "55",
+    "Letters": "PUR",
+    "Status": "Available"
+  },
+  {
+    "Id": "4A22073C-CA73-4A54-BD3B-A18494998997",
+    "Registration": "P177OCK",
+    "PurchasePrice": "821.50",
+    "SalePrice": "19995.00",
+    "Numbers": "177",
+    "Letters": "PIT",
+    "Status": "Available"
+  },
+  {
+    "Id": "EE233A3D-320B-44A4-83B2-AD412919AACB",
+    "Registration": "P334RCE",
+    "PurchasePrice": "935.46",
+    "SalePrice": "9995.00",
+    "Numbers": "334",
+    "Letters": "PEA",
+    "Status": "Available"
+  },
+  {
+    "Id": "DFFDA6D8-22C1-4ED8-A60F-890E93106789",
+    "Registration": "RAB550N",
+    "PurchasePrice": "543.80",
+    "SalePrice": "8995.00",
+    "Numbers": "550",
+    "Letters": "RAB",
+    "Status": "Available"
+  },
+  {
+    "Id": "C664C68A-F2AA-4A7F-AB68-65ED285105A0",
+    "Registration": "ROE5T",
+    "PurchasePrice": "385.98",
+    "SalePrice": "14995.00",
+    "Numbers": "5",
+    "Letters": "ROE",
+    "Status": "Available"
+  },
+  {
+    "Id": "AC43947F-0054-404B-BE79-8103DF43E024",
+    "Registration": "SAY13S",
+    "PurchasePrice": "1425.12",
+    "SalePrice": "14995.00",
+    "Numbers": "13",
+    "Letters": "SAY",
+    "Status": "Available"
+  },
+  {
+    "Id": "EE327BF1-813A-4946-A0DE-AAB3B59BC5B4",
+    "Registration": "SCA111Y",
+    "PurchasePrice": "17541.56",
+    "SalePrice": "12495.00",
+    "Numbers": "111",
+    "Letters": "SCA",
+    "Status": "Available"
+  },
+  {
+    "Id": "AA9003E5-24C3-4BB6-9002-A71C92A36DA2",
+    "Registration": "SCO773R",
+    "PurchasePrice": "2112.13",
+    "SalePrice": "14995.00",
+    "Numbers": "773",
+    "Letters": "SCO",
+    "Status": "Available"
+  },
+  {
+    "Id": "BD17772F-893B-414C-B9BC-85DBBAA0E377",
+    "Registration": "SES4Y",
+    "PurchasePrice": "437.45",
+    "SalePrice": "19995.00",
+    "Numbers": "4",
+    "Letters": "SES",
+    "Status": "Available"
+  },
+  {
+    "Id": "F9242C0E-E213-44CC-9024-80A3233A6DA6",
+    "Registration": "SOR58Y",
+    "PurchasePrice": "216.14",
+    "SalePrice": "14995.00",
+    "Numbers": "58",
+    "Letters": "SOR",
+    "Status": "Available"
+  },
+  {
+    "Id": "286B8F20-DBFF-4FEC-97AE-D4FD3D92CA3C",
+    "Registration": "SOU73R",
+    "PurchasePrice": "595.79",
+    "SalePrice": "19995.00",
+    "Numbers": "73",
+    "Letters": "SOU",
+    "Status": "Available"
+  },
+  {
+    "Id": "FE4AE31C-C1A4-4DF6-94C3-458525280D76",
+    "Registration": "SPA2E",
+    "PurchasePrice": "1037.65",
+    "SalePrice": "14995.00",
+    "Numbers": "2",
+    "Letters": "SPA",
+    "Status": "Available"
+  },
+  {
+    "Id": "178DA004-3231-4E5F-A47E-B723FEB1D814",
+    "Registration": "TEA61E",
+    "PurchasePrice": "1077.54",
+    "SalePrice": "14995.00",
+    "Numbers": "61",
+    "Letters": "TEA",
+    "Status": "Available"
+  },
+  {
+    "Id": "67ECFE4A-2E8F-4CD9-B5F8-6815C4D0E7F0",
+    "Registration": "TOW311L",
+    "PurchasePrice": "123.40",
+    "SalePrice": "9995.00",
+    "Numbers": "311",
+    "Letters": "TOW",
+    "Status": "Available"
+  },
+  {
+    "Id": "527C67BA-A6F7-45A8-8261-AA3061DD266B",
+    "Registration": "TRO7H",
+    "PurchasePrice": "628.30",
+    "SalePrice": "19995.00",
+    "Numbers": "7",
+    "Letters": "TRO",
+    "Status": "Available"
+  },
+  {
+    "Id": "17C681AB-F487-4AEA-8C22-6506FE6E8E40",
+    "Registration": "T188ERT",
+    "PurchasePrice": "758.94",
+    "SalePrice": "19995.00",
+    "Numbers": "188",
+    "Letters": "TIB",
+    "Status": "Available"
+  },
+  {
+    "Id": "536B6CE2-8704-4AB7-9561-789D0E5A00F5",
+    "Registration": "VLA551S",
+    "PurchasePrice": "1462.38",
+    "SalePrice": "14995.00",
+    "Numbers": "551",
+    "Letters": "VLA",
+    "Status": "Available"
+  },
+  {
+    "Id": "153D5B41-5DCC-4BB6-9D46-C42CD579CE05",
+    "Registration": "VOL13R",
+    "PurchasePrice": "174.59",
+    "SalePrice": "12495.00",
+    "Numbers": "13",
+    "Letters": "VOL",
+    "Status": "Available"
+  },
+  {
+    "Id": "F39BBA68-C7FC-4C58-910E-0991C016E13F",
+    "Registration": "VOS93R",
+    "PurchasePrice": "7540.03",
+    "SalePrice": "9995.00",
+    "Numbers": "93",
+    "Letters": "VOS",
+    "Status": "Available"
+  },
+  {
+    "Id": "B8FA3B44-2F82-4901-9797-B15A26645B47",
+    "Registration": "WAD114M",
+    "PurchasePrice": "650.43",
+    "SalePrice": "14995.00",
+    "Numbers": "114",
+    "Letters": "WAD",
+    "Status": "Available"
+  },
+  {
+    "Id": "7B0A880C-8485-4A06-8FA0-A7F7C354094B",
+    "Registration": "WAG6G",
+    "PurchasePrice": "2587.75",
+    "SalePrice": "9995.00",
+    "Numbers": "6",
+    "Letters": "WAG",
+    "Status": "Available"
+  },
+  {
+    "Id": "78DB220D-1489-452C-BD6D-05FCE3F785AA",
+    "Registration": "WAS13Y",
+    "PurchasePrice": "59.13",
+    "SalePrice": "14995.00",
+    "Numbers": "13",
+    "Letters": "WAS",
+    "Status": "Available"
+  },
+  {
+    "Id": "101D32A9-170D-47F7-B590-CC0C452801C7",
+    "Registration": "WAT7T",
+    "PurchasePrice": "1984.89",
+    "SalePrice": "9995.00",
+    "Numbers": "7",
+    "Letters": "WAT",
+    "Status": "Available"
+  },
+  {
+    "Id": "40E86D6A-4944-4783-9046-B3ABAA32D94E",
+    "Registration": "WEL80N",
+    "PurchasePrice": "1369.14",
+    "SalePrice": "19995.00",
+    "Numbers": "80",
+    "Letters": "WEL",
+    "Status": "Available"
+  },
+  {
+    "Id": "E8897AEC-AF7C-4641-A2DB-9356EC713DE4",
+    "Registration": "WEN63R",
+    "PurchasePrice": "3185.05",
+    "SalePrice": "14995.00",
+    "Numbers": "63",
+    "Letters": "WEN",
+    "Status": "Available"
+  },
+  {
+    "Id": "0D1CA8F8-31F2-41E8-8B43-EB617D2FDCFE",
+    "Registration": "WHA111E",
+    "PurchasePrice": "746.32",
+    "SalePrice": "9995.00",
+    "Numbers": "111",
+    "Letters": "WHA",
+    "Status": "Available"
+  },
+  {
+    "Id": "E9BF1A60-33CC-4FFA-BD57-396930921CBD",
+    "Registration": "WRA7E",
+    "PurchasePrice": "151.89",
+    "SalePrice": "19995.00",
+    "Numbers": "7",
+    "Letters": "WRA",
+    "Status": "Available"
+  },
+  {
+    "Id": "1C747D88-CE06-434B-B669-2DB8F91F6A77",
+    "Registration": "YAX113Y",
+    "PurchasePrice": "944.75",
+    "SalePrice": "9995.00",
+    "Numbers": "113",
+    "Letters": "YAX",
+    "Status": "Available"
+  },
+  {
+    "Id": "59C8DBCD-68C9-4BB9-94FD-7806DB05786C",
+    "Registration": "TUL3Y",
+    "PurchasePrice": "333.92",
+    "SalePrice": "14995.00",
+    "Numbers": "3",
+    "Letters": "TUL",
+    "Status": "Available"
+  },
+  {
+    "Id": "C8DCBF02-27FE-4371-9F34-62D2DC8F6593",
+    "Registration": "TRU513R",
+    "PurchasePrice": "737.38",
+    "SalePrice": "14995.00",
+    "Numbers": "513",
+    "Letters": "TRU",
+    "Status": "Available"
+  },
+  {
+    "Id": "E0ADBB09-4E7C-49F1-AF2A-AAB74500A5A2",
+    "Registration": "M421ENE",
+    "PurchasePrice": "2050.24",
+    "SalePrice": "14995.00",
+    "Numbers": "421",
+    "Letters": "MAR",
+    "Status": "Available"
+  },
+  {
+    "Id": "23F9E4A6-3833-46D6-8549-3E8A9275A3E4",
+    "Registration": "EAG4N",
+    "PurchasePrice": "1062.22",
+    "SalePrice": "19995.00",
+    "Numbers": "4",
+    "Letters": "EAG",
+    "Status": "Available"
+  },
+  {
+    "Id": "992CE51A-97FF-46F3-9914-6C2994F87514",
+    "Registration": "EGG4R",
+    "PurchasePrice": "5834.83",
+    "SalePrice": "19995.00",
+    "Numbers": "4",
+    "Letters": "EGG",
+    "Status": "Available"
+  },
+  {
+    "Id": "92678ACF-61DA-4D6D-9E36-09FE3D5EAAFB",
+    "Registration": "ELS33Y",
+    "PurchasePrice": "449.32",
+    "SalePrice": "9995.00",
+    "Numbers": "33",
+    "Letters": "ELS",
+    "Status": "Available"
+  },
+  {
+    "Id": "0FE508BE-BD63-4670-A197-44F4E922B40B",
+    "Registration": "EPP5S",
+    "PurchasePrice": "1598.14",
+    "SalePrice": "8995.00",
+    "Numbers": "5",
+    "Letters": "EPP",
+    "Status": "Available"
+  },
+  {
+    "Id": "3FECBE2D-CF01-41E2-9B63-5D69D7BF6E11",
+    "Registration": "ERR3Y",
+    "PurchasePrice": "418.37",
+    "SalePrice": "14995.00",
+    "Numbers": "3",
+    "Letters": "ERR",
+    "Status": "Available"
+  },
+  {
+    "Id": "5E790BB1-599C-4D5F-9A0F-00A91070AB6D",
+    "Registration": "EVE777E",
+    "PurchasePrice": "2832.73",
+    "SalePrice": "9995.00",
+    "Numbers": "777",
+    "Letters": "EVE",
+    "Status": "Available"
+  },
+  {
+    "Id": "958DFEB6-9BC7-465C-A923-1CAF2C1596F3",
+    "Registration": "FAR4M",
+    "PurchasePrice": "58.35",
+    "SalePrice": "19995.00",
+    "Numbers": "4",
+    "Letters": "FAR",
+    "Status": "Available"
+  },
+  {
+    "Id": "02F46934-1D04-489B-9882-818C25CF29DF",
+    "Registration": "FEG44N",
+    "PurchasePrice": "277.16",
+    "SalePrice": "8995.00",
+    "Numbers": "44",
+    "Letters": "FEG",
+    "Status": "Available"
+  },
+  {
+    "Id": "0DC234E0-5DBD-44F0-BFA3-FB5DF839CA7F",
+    "Registration": "GER83R",
+    "PurchasePrice": "759.53",
+    "SalePrice": "14995.00",
+    "Numbers": "83",
+    "Letters": "GER",
+    "Status": "Available"
+  },
+  {
+    "Id": "BD5EABA9-782E-4C49-BCDF-A8407F864EC1",
+    "Registration": "GOW32S",
+    "PurchasePrice": "207.99",
+    "SalePrice": "14995.00",
+    "Numbers": "32",
+    "Letters": "GOW",
+    "Status": "Available"
+  },
+  {
+    "Id": "828F1D89-7A27-4AD5-80E1-9716C104E6A4",
+    "Registration": "G21MES",
+    "PurchasePrice": "2921.66",
+    "SalePrice": "14995.00",
+    "Numbers": "21",
+    "Letters": "GRI",
+    "Status": "Available"
+  },
+  {
+    "Id": "55838B85-0126-4FF7-9EC4-F98F1C8B0F50",
+    "Registration": "HAL5E",
+    "PurchasePrice": "1555.91",
+    "SalePrice": "19995.00",
+    "Numbers": "5",
+    "Letters": "HAL",
+    "Status": "Available"
+  },
+  {
+    "Id": "D76F2CD4-FE17-4C2C-A9F7-0C46DCE51933",
+    "Registration": "HOA7H",
+    "PurchasePrice": "2763.53",
+    "SalePrice": "14995.00",
+    "Numbers": "7",
+    "Letters": "HOA",
+    "Status": "Available"
+  },
+  {
+    "Id": "EECC5EAA-43A3-4016-AC16-1AC4DDC07B34",
+    "Registration": "HOB573R",
+    "PurchasePrice": "808.99",
+    "SalePrice": "14995.00",
+    "Numbers": "573",
+    "Letters": "HOB",
+    "Status": "Available"
+  },
+  {
+    "Id": "ACF8C453-BC42-46C7-A842-0BC38D7090D8",
+    "Registration": "HOD3S",
+    "PurchasePrice": "1182.85",
+    "SalePrice": "14995.00",
+    "Numbers": "3",
+    "Letters": "HOD",
+    "Status": "Available"
+  },
+  {
+    "Id": "D827BAF8-988C-4262-BDC1-7AFD5B89D4F8",
+    "Registration": "HOW137T",
+    "PurchasePrice": "336.18",
+    "SalePrice": "14995.00",
+    "Numbers": "137",
+    "Letters": "HOW",
+    "Status": "Available"
+  },
+  {
+    "Id": "2964AC8A-3426-4657-B594-AF63C7990865",
+    "Registration": "H166OTT",
+    "PurchasePrice": "64388.74",
+    "SalePrice": "19995.00",
+    "Numbers": "166",
+    "Letters": "HIG",
+    "Status": "Available"
+  },
+  {
+    "Id": "E34A41B2-3E8B-4D61-8FFC-9B3ACF6F779A",
+    "Registration": "J35SUP",
+    "PurchasePrice": "1026.01",
+    "SalePrice": "14995.00",
+    "Numbers": "35",
+    "Letters": "JES",
+    "Status": "Available"
+  },
+  {
+    "Id": "87A1D2CD-2688-4CC9-A662-F102187576A4",
+    "Registration": "KEE13R",
+    "PurchasePrice": "11791.65",
+    "SalePrice": "19995.00",
+    "Numbers": "13",
+    "Letters": "KEE",
+    "Status": "Available"
+  },
+  {
+    "Id": "920C9A73-67B7-4E31-BBE2-6C2D553296E1",
+    "Registration": "KES8Y",
+    "PurchasePrice": "592.96",
+    "SalePrice": "14995.00",
+    "Numbers": "8",
+    "Letters": "KES",
+    "Status": "Available"
+  },
+  {
+    "Id": "3A5DEF92-B0EB-497B-8EC4-BAC35C94E425",
+    "Registration": "K31TON",
+    "PurchasePrice": "952.28",
+    "SalePrice": "14995.00",
+    "Numbers": "31",
+    "Letters": "KEL",
+    "Status": "Available"
+  },
+  {
+    "Id": "DE8CCD1F-893B-4099-9312-EF6E513428A3",
+    "Registration": "K45HER",
+    "PurchasePrice": "367.12",
+    "SalePrice": "19995.00",
+    "Numbers": "45",
+    "Letters": "KAS",
+    "Status": "Available"
+  },
+  {
+    "Id": "CB23B4A4-6105-41BA-9CDB-73B6298E02E6",
+    "Registration": "K315HAW",
+    "PurchasePrice": "425.93",
+    "SalePrice": "14995.00",
+    "Numbers": "315",
+    "Letters": "KEL",
+    "Status": "Available"
+  },
+  {
+    "Id": "0F7B461C-A456-4DA3-B317-F23B28B34F68",
+    "Registration": "LEA7H",
+    "PurchasePrice": "374.26",
+    "SalePrice": "19995.00",
+    "Numbers": "7",
+    "Letters": "LEA",
+    "Status": "Available"
+  },
+  {
+    "Id": "4B32EAF2-3965-424D-97F0-10407EDB2937",
+    "Registration": "LEB80N",
+    "PurchasePrice": "530.03",
+    "SalePrice": "14995.00",
+    "Numbers": "80",
+    "Letters": "LEB",
+    "Status": "Available"
+  },
+  {
+    "Id": "C8475EE4-CDF1-4DA7-8F2F-AE11C736A55A",
+    "Registration": "LEG647T",
+    "PurchasePrice": "532.74",
+    "SalePrice": "8995.00",
+    "Numbers": "647",
+    "Letters": "LEG",
+    "Status": "Available"
+  },
+  {
+    "Id": "3FCC6C2B-73F9-491B-B69F-E6F1E153F647",
+    "Registration": "LET70N",
+    "PurchasePrice": "1361.01",
+    "SalePrice": "14995.00",
+    "Numbers": "70",
+    "Letters": "LET",
+    "Status": "Available"
+  },
+  {
+    "Id": "6C13D880-1DC5-4102-B151-D0AA898A012D",
+    "Registration": "LUM83R",
+    "PurchasePrice": "3065.15",
+    "SalePrice": "19995.00",
+    "Numbers": "83",
+    "Letters": "LUM",
+    "Status": "Available"
+  },
+  {
+    "Id": "7866A541-0B90-4894-BC14-6704AB640F77",
+    "Registration": "LYM4N",
+    "PurchasePrice": "2076.72",
+    "SalePrice": "19995.00",
+    "Numbers": "4",
+    "Letters": "LYM",
+    "Status": "Available"
+  },
+  {
+    "Id": "BAE1A462-4B68-49B0-B1DC-19D62F6B4161",
+    "Registration": "L34SON",
+    "PurchasePrice": "1042.77",
+    "SalePrice": "14995.00",
+    "Numbers": "34",
+    "Letters": "LEA",
+    "Status": "Available"
+  },
+  {
+    "Id": "00D525CE-3203-4919-A730-1CC0401E7409",
+    "Registration": "L48DON",
+    "PurchasePrice": "415.42",
+    "SalePrice": "14995.00",
+    "Numbers": "48",
+    "Letters": "LAB",
+    "Status": "Available"
+  },
+  {
+    "Id": "D80F3894-AC0A-437B-9431-E3A6C39764FA",
+    "Registration": "MEE7A",
+    "PurchasePrice": "6934.75",
+    "SalePrice": "19995.00",
+    "Numbers": "7",
+    "Letters": "MEE",
+    "Status": "Available"
+  },
+  {
+    "Id": "B3F30637-C9A5-4889-984C-DDAC7109BB7A",
+    "Registration": "MEE114N",
+    "PurchasePrice": "1004.07",
+    "SalePrice": "14995.00",
+    "Numbers": "114",
+    "Letters": "MEE",
+    "Status": "Available"
+  }
+]
