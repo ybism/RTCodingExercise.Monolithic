@@ -1,3 +1,14 @@
+# My approach
+
+Standard repo - service layer pattern for development. I started with the models as I knew it would be required to adjust the model for Plate with status after reading through all the user stories. I also added a model for PromoDetails. 
+
+My repo layer is fairly simple, the service layer is then more complex. Ideally, if I had more time I would have split this up further - a PromoService class, a ReservationStatus class and a Filtering/Sorting class. All would have been implemented in the same way. 
+
+I tried to get to all the user stories, skipped the Sale one as it required more Frontend work which is more time consuming for me. I would have approached this in the same way as the others, a sold button next to the item. If I had implemented this I would have changed status to be an enum with Availebl, Reserved and Sold as the options but the time limit made this too long. 
+
+
+
+
 # Monolithic Application Template
 
 If you have found your way here, you have more than likely been asked by Regtransfers Ltd to complete a Coding Exercise as a part of your interview process. 
